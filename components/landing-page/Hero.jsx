@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import heroBg from '@/assets/images/hero-bg.png';
-import heroLogo from '@/assets/images/VAV-Customs-Logo-Hero.png';
+import heroBg from '@/public/assets/images/hero-bg.png';
+import heroLogo from '@/public/assets/images/VAV-Customs-Logo-Hero.png';
 
 const Hero = () => {
   return (
